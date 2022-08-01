@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.39cde0e4.css",
+    "main.js": "/memory-card-game/static/js/main.3d35f567.js",
+    "static/media/background.jpg": "/memory-card-game/static/media/background.45b085625fbe384e8aad.jpg",
+    "static/media/dutch.jpg": "/memory-card-game/static/media/dutch.bd49fed31e37732d6392.jpg",
+    "static/media/uncle.jpg": "/memory-card-game/static/media/uncle.dd537553f385a3234b50.jpg",
+    "static/media/micah.jpg": "/memory-card-game/static/media/micah.3d0bf7a04a1dde0a0659.jpg",
+    "static/media/josiah.jpg": "/memory-card-game/static/media/josiah.ca55b5ef8c7be877e7ba.jpg",
+    "static/media/arthur.jpg": "/memory-card-game/static/media/arthur.96f2847697f56829ef8e.jpg",
+    "static/media/lenny.jpg": "/memory-card-game/static/media/lenny.27de6b0a5a20510ebd30.jpg",
+    "static/media/sadie.jpg": "/memory-card-game/static/media/sadie.f5569402a46351f05efe.jpg",
+    "static/media/hosea.jpg": "/memory-card-game/static/media/hosea.97c1849d9f9eed11a0c8.jpg",
+    "static/media/pearson.jpg": "/memory-card-game/static/media/pearson.4ee936978bfc1e526e04.jpg",
+    "static/media/john.jpg": "/memory-card-game/static/media/john.1e2eeda1cac2c41067c9.jpg",
+    "static/media/logo.jpg": "/memory-card-game/static/media/logo.1dc0966fffa8e3d08a7b.jpg",
+    "static/media/javier.jpg": "/memory-card-game/static/media/javier.ac3d74defdf6e8a00604.jpg",
+    "static/media/kieran.jpg": "/memory-card-game/static/media/kieran.21163716eefef96f8955.jpg",
+    "static/media/bill.jpg": "/memory-card-game/static/media/bill.9fc0391978b02117d77b.jpg",
+    "static/media/swanson.jpg": "/memory-card-game/static/media/swanson.7de9b671a4af1138d091.jpg",
+    "index.html": "/memory-card-game/index.html",
+    "main.39cde0e4.css.map": "/memory-card-game/static/css/main.39cde0e4.css.map",
+    "main.3d35f567.js.map": "/memory-card-game/static/js/main.3d35f567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39cde0e4.css",
+    "static/js/main.3d35f567.js"
+  ]
+}
